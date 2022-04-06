@@ -1,2 +1,6 @@
-added directly from GitHub.com to simulate RENOTE REPO has commits we do not have local 
+added directly from GitHub.com to simulate REMOTE REPO has commits we do not have local 
+
+Doing more work and trying to pull it down to the local repo eventually.
+
+
 
